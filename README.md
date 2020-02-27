@@ -1,4 +1,4 @@
-# MLB - Moneyball Project
+# MLB - Moneyball Project (2013&2018)
 
 This is my first project in Python. Arranged and visually presented the number of wins a team had in relationship with how much they spent on salaries in the 2013 season and 2018 season. 
 These are my finding:
